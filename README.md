@@ -1,6 +1,6 @@
 # Análisis cartera de credito
 
-##Requerimientos
+## Requerimientos
 python 3.9 o superior
 ```
 pandas==2.2.2
